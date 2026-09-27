@@ -23,7 +23,7 @@ stellar-market/
 
 | Layer               | Technology                                        |
 | ------------------- | ------------------------------------------------- |
-| **Frontend**        | Next.js 14, TypeScript, Tailwind CSS, Stellar SDK |
+| **Frontend**        | Next.js 16, TypeScript, Tailwind CSS, Stellar SDK |
 | **Backend**         | Express.js, TypeScript, PostgreSQL, Prisma ORM    |
 | **Smart Contracts** | Soroban SDK, Rust                                 |
 | **Blockchain**      | Stellar Network (Soroban)                         |
